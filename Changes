@@ -1,0 +1,7 @@
+Revision history for Perl extension IO::EventQueue
+
+$Id: Changes,v 1.2 2003/03/28 19:22:52 xmath Exp $
+
+0.99_01  Fri Mar 28 20:22:16 CET 2003
+	- Initial version
+	- 100% untested
